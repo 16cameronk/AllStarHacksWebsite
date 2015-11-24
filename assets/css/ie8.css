@@ -100,7 +100,7 @@ filter:alpha(opacity=70); /* For IE8 and earlier */
 
 		#header:before {
 			content: '';
-			background-image: url("images/overlay.png");
+			background-image: url("images/LHD.png");
 			position: absolute;
 			left: 0;
 			top: 0;

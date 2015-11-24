@@ -2505,7 +2505,7 @@
 
 	#header {
 		background-attachment: scroll,							scroll,					fixed;
-		background-image: url("images/top-3200.svg"), url("images/code2.jpg"), url("../../images/IMG_2745.png");
+		background-image: url("images/top-3200.svg"), url("images/LHD.png"), url("../../images/LHD.png");
 		background-position: bottom center,					top left,				center center;
 		background-repeat: repeat-x,						repeat,					no-repeat;
 		background-size: 3200px 460px,					auto,					cover;
@@ -2536,7 +2536,7 @@
 		}
 
 		#header a {
-			border-bottom-color: rgba(255, 255, 255, 0.05);
+			border-bottom-color: rgba(255, 255, 255, 0.35);
 			color: lightblue;
 		}
 
@@ -2595,11 +2595,7 @@
 
 	#footer {
 		background-attachment: scroll;
-<<<<<<< HEAD
-		background-color: #2278BC ;
-=======
 		background-color: #2278BC;
->>>>>>> origin/gh-pages
 		background-image: url("images/bottom-3200.svg");
 		background-position: top center;
 		background-repeat: repeat-x;
@@ -2825,7 +2821,7 @@
 
 			#header {
 				background-attachment: scroll,							scroll,							scroll;
-				background-image: url("images/top-1600.svg"), url("images/overlay.png"), url("../../images/header.jpg");
+				background-image: url("images/top-1600.svg"), url("images/overlay.png") norepeat, url("../../images/header.jpg");
 				background-size: 1600px 230px,					auto,							cover;
 				padding: 6em 0 12em 0;
 			}
